@@ -19,6 +19,8 @@ Determine the optimal number of clusters
 
 Evaluate clustering performance using Silhouette Score
 
+---
+
 🧠 Algorithm Used
 Hierarchical Clustering (Agglomerative Approach)
 
@@ -38,10 +40,15 @@ Average Linkage
 
 Ward’s Method
 
+---
+
 📂 Project Structure
+
 Hierarchical_Clustering.ipynb
+
 README.md
-dataset.csv (if applicable)
+
+---
 
 🛠️ Technologies & Libraries
 
@@ -58,6 +65,8 @@ Seaborn
 Scikit-learn
 
 Scipy
+
+---
 
 🔍 Steps Performed
 
@@ -81,6 +90,8 @@ Visualize final clusters
 
 Draw conclusion
 
+---
+
 📈 Evaluation Metric
 
 Silhouette Score was used to measure clustering performance.
@@ -88,6 +99,8 @@ Silhouette Score was used to measure clustering performance.
 Value ranges from -1 to 1
 
 Higher score indicates better-defined clusters
+
+---
 
 ✅ Results
 
@@ -97,11 +110,15 @@ Dendrogram helped in selecting the appropriate number of clusters.
 
 Feature scaling significantly improved clustering performance.
 
+---
+
 ⚠️ Limitations
 
 Computationally expensive for large datasets
 
 Once clusters are merged, they cannot be split
+
+---
 
 🚀 Future Improvements
 
