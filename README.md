@@ -1,5 +1,7 @@
 📊 Hierarchical Clustering Implementation
 
+---
+
 📌 Project Overview
 
 This project demonstrates the implementation of Hierarchical Clustering, an unsupervised machine learning algorithm used to group similar data points into clusters based on distance metrics.
